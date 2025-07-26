@@ -1,1 +1,2 @@
-# Pharos-Testnet-Bot
+# Pharos-Testnet-Bo
+Clone the repo
